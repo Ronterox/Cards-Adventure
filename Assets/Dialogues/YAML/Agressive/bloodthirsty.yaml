@@ -1,0 +1,27 @@
+name: Bloodthirsty
+sentences:
+- id: 1
+  sentence: Blood for the blood god!
+- id: 2
+  sentence: Everything tastes better red
+- id: 3
+  sentence: Give me just a sip
+- id: 4
+  sentence: It's just a sip please
+- id: 5
+  sentence: I brought my straw
+- id: 6
+  sentence: Are you bleeding yet?
+- id: 7
+  sentence: I see it right there, GIVE IT!
+- id: 8
+  sentence: You have lots of blood
+- id: 9
+  sentence: Delicious!
+- id: 10
+  sentence: Finally some good fucking blood
+
+- id: 999
+  sentence: At least I get to taste my own blood...
+- id: 1000
+  isFinished: true

@@ -1,0 +1,27 @@
+name: Brutal Torment
+sentences:
+- id: 1
+  sentence: I found you hero!
+- id: 2
+  sentence: Prepare to die
+- id: 3
+  sentence: Not even close
+- id: 4
+  sentence: I pig hits harder
+- id: 5
+  sentence: You are not close to the Dark Lord Power
+- id: 6
+  sentence: I need no brain, no skill
+- id: 7
+  sentence: I'm pure power in its ultimate form!
+- id: 8
+  sentence: DIE ALREADY!
+- id: 9
+  sentence: You cannot stop us
+- id: 10
+  sentence: The perpetual path of Torment
+
+- id: 999
+  sentence: You still are no match to him
+- id: 1000
+  isFinished: true

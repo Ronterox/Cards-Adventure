@@ -1,0 +1,161 @@
+{
+	"name": "Darklord",
+	"sentences": [
+		{
+			"id": 1,
+			"sentence": "Finally... You have come"
+		},
+		{
+			"id": 2,
+			"sentence": "I was waiting you know"
+		},
+		{
+			"id": 3,
+			"sentence": "For a long time"
+		},
+		{
+			"id": 4,
+			"sentence": "Let's get to the point           Hero"
+		},
+		{
+			"id": 0.1,
+			"sentence": "HAHHAHAHAHAHAHAHA!"
+		},
+		{
+			"id": 1.1,
+			"sentence": "That's what I like!"
+		},
+		{
+			"id": 2.1,
+			"sentence": "Don't dissapoint me"
+		},
+		{
+			"id": 3.1,
+			"sentence": "HERO!"
+		},
+		{
+			"id": 4.1,
+			"sentence": "HAAAAAAAH!"
+		},
+		{
+			"id": 0.2,
+			"skill_check": "strength",
+			"difficulty": 20,
+			"sentence": "You are indeed strong",
+			"fail_route": 0.5
+		},
+		{
+			"id": 1.2,
+			"sentence": "For that... I will leave you be"
+		},
+		{
+			"id": 2.2,
+			"getEnding": "Dont Care"
+		},
+		{
+			"id": 0.5,
+			"sentence": "This is not a situation you can get away from"
+		},
+		{
+			"id": 1.5,
+			"sentence": "If you show me your back like that..."
+		},
+		{
+			"id": 2.5,
+			"prize": "damage",
+			"getEnding": "Player Death"
+		},
+		{
+			"id": 0.3,
+			"skill_check": "intelligence",
+			"difficulty": 20,
+			"fail_route": 0.6,
+			"sentence": "Eh?"
+		},
+		{
+			"id": 1.3,
+			"sentence": "Haha..."
+		},
+		{
+			"id": 2.3,
+			"sentence": "Hehehe..."
+		},
+		{
+			"id": 3.3,
+			"sentence": "HAHAHAHAHAHAHAHAHAHA!"
+		},
+		{
+			"id": 4.3,
+			"sentence": "Stop you say?"
+		},
+		{
+			"id": 5.3,
+			"sentence": "After everything I have done"
+		},
+		{
+			"id": 6.3,
+			"sentence": "You believ-             Well"
+		},
+		{
+			"id": 7.3,
+			"sentence": "Actually, yeah"
+		},
+		{
+			"id": 8.3,
+			"sentence": "Maybe is time for me to retire"
+		},
+		{
+			"id": 9.3,
+			"getEnding": "Defeat Darklord"
+		},
+		{
+			"id": 0.6,
+			"sentence": "Stop?"
+		},
+		{
+			"id": 1.6,
+			"sentence": "Are you dumb or something?"
+		},
+		{
+			"id": 2.6,
+			"sentence": "Be serious...",
+			"prize": "damage"
+		},
+		{
+			"id": 0.4,
+			"skill_check": "charm",
+			"difficulty": 20,
+			"fail_route": 0.7,
+			"sentence": "..."
+		},
+		{
+			"id": 1.4,
+			"sentence": "Emmm..."
+		},
+		{
+			"id": 2.4,
+			"sentence": "hm hm hm. So."
+		},
+		{
+			"id": 3.4,
+			"sentence": "Let's get to the point           Hero"
+		},
+		{
+			"id": 0.7,
+			"sentence": "Interesting approach but"
+		},
+		{
+			"id": 1.7,
+			"sentence": "Put yourself together!",
+			"prize": "damage"
+		},
+		{
+			"id": 999,
+			"sentence": "I regret nothing"
+		},
+		{
+			"id": 1000,
+			"getEnding": "Defeat Darklord"
+		}
+	]
+}

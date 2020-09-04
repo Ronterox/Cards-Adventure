@@ -1,0 +1,61 @@
+{
+	"name": "Quality Jewelry",
+	"sentences": [
+		{
+			"id": 1,
+			"color": "cyan",
+			"sentence": "A lots of jewels"
+		},
+		{
+			"id": 0.1,
+			"sentence": "You picked them up"
+		},
+		{
+			"id": 1.1,
+			"isFinish": true
+		},
+		{
+			"id": 0.2,
+			"sentence": "You decide to let it be"
+		},
+		{
+			"id": 1.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"sentence": "Money, money, money"
+		},
+		{
+			"id": 1.3,
+			"sentence": "But you don't know what is money"
+		},
+		{
+			"id": 0.4,
+			"skill_check": "strength",
+			"difficulty": 8,
+			"fail_route": 0.5,
+			"sentence": "You destroyed the jewels into pieces..."
+		},
+		{
+			"id": 1.4,
+			"sentence": "Sadly... Nothing else seems to happen"
+		},
+		{
+			"id": 2.4,
+			"sentence": "Wait! maybe..."
+		},
+		{
+			"id": 3.4,
+			"sentence": "Nope, it just your tears"
+		},
+		{
+			"id": 4.4,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "You couldn't use enough force to break the equipment"
+		}
+	]
+}

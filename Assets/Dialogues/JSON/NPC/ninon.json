@@ -1,0 +1,183 @@
+{
+	"name": "Ninon The Witch",
+	"sentences": [
+		{
+			"id": 1,
+			"sentence": "A magic portal opens",
+			"color": "cyan"
+		},
+		{
+			"id": 2,
+			"sentence": "Howdyion, Salutations young one",
+			"color": "white"
+		},
+		{
+			"id": 3,
+			"sentence": "Anyway call me Ninon, young one"
+		},
+		{
+			"id": 4,
+			"sentence": "Witch of powerful magic"
+		},
+		{
+			"id": 5,
+			"sentence": "I have heard a lot about you young hero"
+		},
+		{
+			"id": 0.1,
+			"sentence": "Stupid kid!"
+		},
+		{
+			"id": 1.1,
+			"sentence": "You have no chance"
+		},
+		{
+			"id": 2.1,
+			"sentence": "Magic!"
+		},
+		{
+			"id": 3.1,
+			"sentence": "Punch!"
+		},
+		{
+			"id": 4.1,
+			"sentence": "Wahra!"
+		},
+		{
+			"id": 0.2,
+			"sentence": "As fool as I heard"
+		},
+		{
+			"id": 1.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"skill_check": "intelligence",
+			"difficulty": 18,
+			"fail_route": 0.5,
+			"sentence": "Eh?"
+		},
+		{
+			"id": 1.3,
+			"sentence": "Why am I calling you young?"
+		},
+		{
+			"id": 2.3,
+			"sentence": "Well, that's because you're pretty young"
+		},
+		{
+			"id": 3.3,
+			"sentence": "We are the same age?!"
+		},
+		{
+			"id": 4.3,
+			"sentence": "Well, yeah. We are young aren't we hehe..."
+		},
+		{
+			"id": 5.3,
+			"sentence": "Just take this and keep your way, Hero...",
+			"prize": "weapon rare"
+		},
+		{
+			"id": 6.3,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "Eh?"
+		},
+		{
+			"id": 1.5,
+			"sentence": "Why am I calling you young?"
+		},
+		{
+			"id": 2.5,
+			"sentence": "Well, that's because you're pretty young"
+		},
+		{
+			"id": 3.5,
+			"sentence": "No, I'm not keeping my age with magic"
+		},
+		{
+			"id": 4.5,
+			"sentence": "I AM A PRETTY YOUNG WITCH ASSHOLE!"
+		},
+		{
+			"id": 5.5,
+			"sentence": "She pushes you with a spell",
+			"color": "cyan"
+		},
+		{
+			"id": 6.5,
+			"sentence": "You get hit hard...",
+			"prize": "damage"
+		},
+		{
+			"id": 7.5,
+			"sentence": "She teleported out of here",
+			"isFinish": true
+		},
+		{
+			"id": 0.4,
+			"skill_check": "charm",
+			"difficulty": 19,
+			"fail_route": 0.6,
+			"sentence": "Pretty young witch?"
+		},
+		{
+			"id": 1.4,
+			"sentence": "hehehehe"
+		},
+		{
+			"id": 2.4,
+			"sentence": "Yes! I'm pretty and young aren't I"
+		},
+		{
+			"id": 3.4,
+			"sentence": "A hero with a good eye, maybe you will surely take the Dark lord down"
+		},
+		{
+			"id": 4.4,
+			"sentence": "Take this and keep your way hero, Good Luck!",
+			"prize": "armor rare"
+		},
+		{
+			"id": 5.4,
+			"sentence": "Take care!"
+		},
+		{
+			"id": 6.4,
+			"sentence": "She teleported out of Here",
+			"color": "cyan",
+			"isFinish": true
+		},
+		{
+			"id": 0.6,
+			"sentence": "Even for a dumb peasant, that wouldn't be enough..."
+		},
+		{
+			"id": 1.6,
+			"sentence": "Dissapoinment"
+		},
+		{
+			"id": 2.6,
+			"sentence": "She walked away",
+			"color": "cyan",
+			"isFinish": true
+		},
+		{
+			"id": 999,
+			"sentence": "Dumb but strong..."
+		},
+		{
+			"id": 1000,
+			"sentence": "Classic..."
+		},
+		{
+			"id": 1001,
+			"prize": "accessory rare",
+			"isFinish": true
+		}
+	]
+}

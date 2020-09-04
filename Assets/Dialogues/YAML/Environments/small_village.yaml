@@ -1,0 +1,62 @@
+name: Small Village
+sentences:
+  - id: 1
+    color: cyan
+    sentence: It looks like a friendly small village
+  - id: 2
+    sentence: I can maybe rest here, check is there something useful
+
+  - id: 0.1
+    skill_check: strength
+    difficulty: 18
+    fail_route: 0.5
+    sentence: You attack and loop all the houses and people in the village.
+  - id: 1.1
+    sentence: You find all kind of items. Yay
+    prize: all
+  - id: 2.1
+    sentence: You spend the rest of the day looking for more things
+  - id: 3.1
+    isFinish: true
+
+  - id: 0.5
+    sentence: You decided to attack the village
+  - id: 1.5
+    sentence: What do you think you are doing?!
+    color: white
+  - id: 2.5
+    sentence: An old man beats your ass
+    color: cyan
+    prize: damage
+  - id: 3.5
+    sentence: You were thrown out of the village...
+  - id: 3.5
+    isFinish: true
+
+  - id: 0.2
+    sentence: You go past the Village
+  - id: 1.2
+    isFinish: true
+
+  - id: 0.3
+    skill_check: intelligence
+    difficulty: 14
+    fail_route: 0.6
+    sentence: You notice that the village may have an object of your interest.
+  - id: 1.3
+    sentence: After looking around and asking some question you manage to obtain an item.
+    prize: random
+
+  - id: 0.4
+    sentence: You sleep in a small comfortable inn...
+  - id: 1.4
+    isFinish: true
+
+  - id: 0.6
+    sentence: You spend all they day trying to look for something useful
+  - id: 1.6
+    sentence: You find nothing...
+  - id: 2.6
+    sentence: You need to keep going
+  - id: 3.6
+    isFinish: true

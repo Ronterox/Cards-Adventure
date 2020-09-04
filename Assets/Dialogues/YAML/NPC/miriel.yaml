@@ -1,0 +1,73 @@
+---
+name: Miriel The Cool
+sentences:
+- id: 1
+  sentence: Hey! I'm Miriel
+- id: 2
+  sentence: What's on your mind?
+
+- id: 0.1
+  sentence: Easy there!
+- id: 1.1
+  sentence: Nice hit!
+- id: 2.1
+  sentence: I give you that one!
+- id: 3.1
+  sentence: Wow there!
+- id: 4.1
+  sentence: KICK!
+- id: 5.1
+  sentence: PUNCH!
+
+- id: 0.2
+  sentence: Well, fuck you too mate
+- id: 1.2
+  isFinish: true
+
+- id: 0.3
+  skill_check: intelligence
+  difficulty: 12
+  fail_route: 0.5
+  sentence: You want some equipment...
+- id: 1.3
+  sentence: To save the world?
+- id: 2.3
+  sentence: Sure, here you go
+  prize: weapon
+- id: 3.3
+  sentence: Don't hurt yourself with it
+- id: 4.3
+  isFinish: true
+
+- id: 0.5
+  sentence: Nope, I don't wanna help you
+- id: 1.5
+  isFinish: true
+
+- id: 0.4
+  skill_check: charm
+  difficulty: 13
+  fail_route: 0.6
+  sentence: You hit me
+- id: 1.4
+  sentence: I would say -90 damage
+- id: 2.4
+  sentence: Just equipment is enough? Alright...
+  prize: weapon
+- id: 3.4
+  sentence: Don't hurt yourself
+- id: 4.4
+  isFinish: true
+
+- id: 0.6
+  sentence: I would say you missed
+- id: 1.6
+  sentence: Better luck next time!
+- id: 2.6
+  isFinish: true
+
+- id: 999
+  sentence: I die... rip me
+- id: 1000
+  prize: weapon quality
+  isFinish: true

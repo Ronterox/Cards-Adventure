@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8636346179849470610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8636346179849470608}
+  - component: {fileID: 8636346179849470609}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8636346179849470608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8636346179849470610}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 383.53723, y: 213.24777, z: -214.39081}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8636346179849470609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8636346179849470610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42f484dcbc1bbd7499996fc264e21144, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: hit
+    clip: {fileID: 8300000, guid: 182c9ca4770b2ce4aaff4913327f3789, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: type
+    clip: {fileID: 8300000, guid: 6156f5f835258524fbad57e16d407a22, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ambience
+    clip: {fileID: 8300000, guid: 04608294c38d92d48b62c553b14f8a67, type: 3}
+    volume: 0.1
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: miss
+    clip: {fileID: 8300000, guid: d96d25fcf0e20d847a4629fb27a6946b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: button
+    clip: {fileID: 8300000, guid: 326f38c098f72714c8615b2a8558cc9e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: equip
+    clip: {fileID: 8300000, guid: 2477fbc66eb959341be6da1814296511, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: swap_card
+    clip: {fileID: 8300000, guid: 43ff5e4f16ed1454baf8af0ce8874ac7, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: inventory
+    clip: {fileID: 8300000, guid: a354de09e23161c4b9db1c21c7e368ca, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: roll success
+    clip: {fileID: 8300000, guid: addbfbc6384a03143af0d136b152dcc9, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: roll unsuccess
+    clip: {fileID: 8300000, guid: 38abb8e329025394db010ac1fc85d66d, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: combat
+    clip: {fileID: 8300000, guid: b6c7f6db97f2cca43a576b23264770c5, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: adventure
+    clip: {fileID: 8300000, guid: f06089b8555961248805a488ef9d9af7, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: main menu
+    clip: {fileID: 8300000, guid: 3773c61d17d5d7c4886e2331051bff07, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}

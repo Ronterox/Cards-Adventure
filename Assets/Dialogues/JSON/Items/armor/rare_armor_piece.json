@@ -1,0 +1,54 @@
+{
+	"name": "Rare Armor Piece",
+	"sentences": [
+		{
+			"id": 1,
+			"color": "cyan",
+			"sentence": "unique magical piece of armor"
+		},
+		{
+			"id": 0.1,
+			"sentence": "You picked it up"
+		},
+		{
+			"id": 1.1,
+			"isFinish": true
+		},
+		{
+			"id": 0.2,
+			"sentence": "You decide to let the armor be"
+		},
+		{
+			"id": 1.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"sentence": "It seems like it's fill with powerful magic"
+		},
+		{
+			"id": 0.4,
+			"skill_check": "strength",
+			"difficulty": 10,
+			"fail_route": 0.5,
+			"sentence": "The armor piece is destroyed into pieces..."
+		},
+		{
+			"id": 1.4,
+			"sentence": "Sadly... Nothing else seems to happen"
+		},
+		{
+			"id": 2.4,
+			"sentence": "Wait! You get hit by its magic.",
+			"prize": "damage"
+		},
+		{
+			"id": 3.4,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "Luckily, You couldn't use enough force to break the equipment"
+		}
+	]
+}

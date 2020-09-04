@@ -1,0 +1,119 @@
+{
+	"name": "Dickie The Dick",
+	"sentences": [
+		{
+			"id": 1,
+			"sentence": "..."
+		},
+		{
+			"id": 2,
+			"sentence": "Tcht..."
+		},
+		{
+			"id": 0.1,
+			"sentence": "Weak"
+		},
+		{
+			"id": 1.1,
+			"sentence": "And stupid"
+		},
+		{
+			"id": 2.1,
+			"sentence": "Pff..."
+		},
+		{
+			"id": 0.2,
+			"sentence": "Get out of here"
+		},
+		{
+			"id": 1.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"skill_check": "intelligence",
+			"difficulty": 16,
+			"fail_route": 0.5,
+			"sentence": "Of course, take this incredible thing"
+		},
+		{
+			"id": 1.3,
+			"sentence": "FOR FREE!"
+		},
+		{
+			"id": 2.3,
+			"sentence": "Just for you!",
+			"prize": "weapon"
+		},
+		{
+			"id": 3.3,
+			"sentence": "Now go away"
+		},
+		{
+			"id": 4.3,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "Of course, take this incredible thing"
+		},
+		{
+			"id": 1.5,
+			"sentence": "FOR FREE!"
+		},
+		{
+			"id": 2.5,
+			"sentence": "Just for you!"
+		},
+		{
+			"id": 3.5,
+			"sentence": "Of course no, get away"
+		},
+		{
+			"id": 4.5,
+			"isFinish": true
+		},
+		{
+			"id": 0.4,
+			"skill_check": "charm",
+			"difficulty": 16,
+			"fail_route": 0.6,
+			"sentence": "Of course, I will give you everything"
+		},
+		{
+			"id": 1.4,
+			"sentence": "In exchange of your body..."
+		},
+		{
+			"id": 2.4,
+			"sentence": "No? Get away then"
+		},
+		{
+			"id": 3.4,
+			"isFinish": true
+		},
+		{
+			"id": 0.6,
+			"sentence": "..."
+		},
+		{
+			"id": 1.6,
+			"sentence": "He just ignores you",
+			"color": "cyan"
+		},
+		{
+			"id": 2.6,
+			"isFinish": true
+		},
+		{
+			"id": 999,
+			"sentence": "I'm taking my things with me..."
+		},
+		{
+			"id": 1000,
+			"sentence": "He ran away... Bleeding",
+			"color": "cyan",
+			"isFinish": true
+		}
+	]
+}

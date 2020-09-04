@@ -1,0 +1,120 @@
+{
+	"name": "Rab The Paranoid",
+	"sentences": [
+		{
+			"id": 1,
+			"sentence": "IT'S YOU!"
+		},
+		{
+			"id": 2,
+			"sentence": "You have been following me all this time"
+		},
+		{
+			"id": 3,
+			"sentence": "GET AWAY!"
+		},
+		{
+			"id": 0.1,
+			"sentence": "I DIDN'T KILL HER!"
+		},
+		{
+			"id": 1.1,
+			"sentence": "IT'S NOT TRUE!"
+		},
+		{
+			"id": 2.1,
+			"sentence": "BULLSHIT!"
+		},
+		{
+			"id": 3.1,
+			"sentence": "I DID NOT!"
+		},
+		{
+			"id": 4.1,
+			"sentence": "HELP MARC!"
+		},
+		{
+			"id": 0.2,
+			"sentence": "I knew it was you all along"
+		},
+		{
+			"id": 1.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"skill_check": "intelligence",
+			"difficulty": 10,
+			"fail_route": 0.5,
+			"sentence": "AAAAA-"
+		},
+		{
+			"id": 1.3,
+			"sentence": "What, you don't even know me?"
+		},
+		{
+			"id": 2.3,
+			"sentence": "I DON'T BELIEVE YOU! LEAVE ME!"
+		},
+		{
+			"id": 3.3,
+			"sentence": "If I give you something worth it?"
+		},
+		{
+			"id": 4.3,
+			"sentence": "Take this and leave me.",
+			"prize": "armor quality"
+		},
+		{
+			"id": 5.3,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "..."
+		},
+		{
+			"id": 1.5,
+			"sentence": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"isFinish": true
+		},
+		{
+			"id": 0.4,
+			"skill_check": "charm",
+			"difficulty": 16,
+			"fail_route": 0.6,
+			"sentence": "I'm not trusting youuu~"
+		},
+		{
+			"id": 1.4,
+			"sentence": "Leave me!"
+		},
+		{
+			"id": 2.4,
+			"sentence": "I give you my gear",
+			"prize": "armor rare"
+		},
+		{
+			"id": 3.4,
+			"isFinish": true
+		},
+		{
+			"id": 0.6,
+			"sentence": "..."
+		},
+		{
+			"id": 1.6,
+			"sentence": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"isFinish": true
+		},
+		{
+			"id": 999,
+			"sentence": "Stupid goverment agents..."
+		},
+		{
+			"id": 1000,
+			"prize": "armor quality",
+			"isFinish": true
+		}
+	]
+}

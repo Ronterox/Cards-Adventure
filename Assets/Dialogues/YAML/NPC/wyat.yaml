@@ -1,0 +1,81 @@
+---
+name: Wyat The Good
+sentences:
+- id: 1
+  sentence: Gentlemen.
+- id: 2
+  sentence: Name's Wyat.
+- id: 3
+  sentence: I would like to offer.
+- id: 4
+  sentence: Itemization.
+
+- id: 0.1
+  sentence: DRAW THEN.
+- id: 1.1
+  sentence: You... GARBAGE.
+- id: 2.1
+  sentence: FEEL THE POWER.
+- id: 3.1
+  sentence: Of NEGOTIATION.
+
+- id: 0.2
+  sentence: You gonna let a man hanging?
+- id: 1.2
+  sentence: Coward...
+- id: 2.2
+  isFinish: true
+
+- id: 0.3
+  skill_check: intelligence
+  difficulty: 13
+  fail_route: 0.5
+  sentence: You believe. You are getting it for free?
+- id: 1.3
+  sentence: Sake of the world you say?
+- id: 2.3
+  sentence: Well. It doesn't seem like your lying.
+- id: 3.3
+  sentence: Here you go.
+  prize: accessory
+- id: 4.3
+  sentence: Now follow your way begger-hero.
+- id: 5.3
+  isFinish: true
+
+- id: 0.5
+  sentence: You believe. You are getting it for free?
+- id: 1.5
+  sentence: Over my dead ass. Partner.
+- id: 2.5
+  isFinish: true
+
+- id: 0.4
+  skill_check: charm
+  difficulty: 16
+  fail_route: 0.6
+  sentence: What?
+- id: 1.4
+  sentence: Well thanks. But.
+- id: 2.4
+  sentence: Err...
+- id: 3.4
+  sentence: Take this and go away. You... You dumb.
+  prize: accessory quality
+- id: 4.4
+  isFinish: true
+
+- id: 0.6
+  sentence: What?
+- id: 1.6
+  sentence: You are taking me for a walking whore or what.
+- id: 2.6
+  sentence: Go beg away from me.
+- id: 3.6
+  isFinish: true
+
+- id: 999
+  sentence: You are more dead than me. Partner...
+- id: 1000
+  prize: accessory
+  isFinish: true

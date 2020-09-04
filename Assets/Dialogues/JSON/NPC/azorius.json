@@ -1,0 +1,154 @@
+{
+	"name": "Azorius The Dumb",
+	"sentences": [
+		{
+			"id": 1,
+			"sentence": "HeLLO, HEllo, HeLlOw"
+		},
+		{
+			"id": 2,
+			"sentence": "A"
+		},
+		{
+			"id": 3,
+			"sentence": "To the Z"
+		},
+		{
+			"id": 4,
+			"sentence": "To the Orius. That's me"
+		},
+		{
+			"id": 5,
+			"sentence": "I guess, yep"
+		},
+		{
+			"id": 0.1,
+			"sentence": "W-Why?!"
+		},
+		{
+			"id": 1.1,
+			"sentence": "Stop!"
+		},
+		{
+			"id": 2.1,
+			"sentence": "I HATE YOU!"
+		},
+		{
+			"id": 3.1,
+			"sentence": "I'M SORRY"
+		},
+		{
+			"id": 4.1,
+			"sentence": "I LOVE You"
+		},
+		{
+			"id": 5.1,
+			"sentence": "Stop please"
+		},
+		{
+			"id": 0.2,
+			"sentence": "Wait, don't just leave"
+		},
+		{
+			"id": 2.2,
+			"isFinish": true
+		},
+		{
+			"id": 0.3,
+			"skill_check": "intelligence",
+			"difficulty": 5,
+			"fail_route": 0.5,
+			"sentence": "You need equipment?"
+		},
+		{
+			"id": 1.3,
+			"sentence": "Stop the darklord?"
+		},
+		{
+			"id": 2.3,
+			"sentence": "Emmm..."
+		},
+		{
+			"id": 3.3,
+			"sentence": "You are really nice so why not"
+		},
+		{
+			"id": 4.3,
+			"sentence": "There, I don't use this thing",
+			"prize": "weapon"
+		},
+		{
+			"id": 5.3,
+			"isFinish": true
+		},
+		{
+			"id": 0.5,
+			"sentence": "Equipment?"
+		},
+		{
+			"id": 1.5,
+			"sentence": "Emmm..."
+		},
+		{
+			"id": 2.5,
+			"sentence": "Sorryidon'thaveany",
+			"isFinish": true
+		},
+		{
+			"id": 0.4,
+			"skill_check": "charm",
+			"difficulty": 5,
+			"fail_route": 0.6,
+			"sentence": "Hehehehe"
+		},
+		{
+			"id": 1.4,
+			"sentence": "HEHEHEHEHEHE"
+		},
+		{
+			"id": 2.4,
+			"sentence": "Equipment?"
+		},
+		{
+			"id": 3.4,
+			"sentence": "Oh, so you want to equip for me? Hehehehe"
+		},
+		{
+			"id": 4.4,
+			"sentence": "Eh?! Just an Item?"
+		},
+		{
+			"id": 5.4,
+			"sentence": "Sure, what about this?",
+			"prize": "armor"
+		},
+		{
+			"id": 6.4,
+			"sentence": "Now, maybe we can..."
+		},
+		{
+			"id": 7.4,
+			"sentence": "You ran away",
+			"color": "cyan",
+			"isFinish": true
+		},
+		{
+			"id": 0.6,
+			"sentence": "Sorry, I'm to charming for you"
+		},
+		{
+			"id": 1.6,
+			"sentence": "He walks away",
+			"color": "cyan",
+			"isFinish": true
+		},
+		{
+			"id": 999,
+			"sentence": "Was it something I said?"
+		},
+		{
+			"id": 1000,
+			"isFinish": true
+		}
+	]
+}

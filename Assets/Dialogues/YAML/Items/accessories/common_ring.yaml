@@ -1,0 +1,32 @@
+---
+name: Common Ring
+sentences:
+  - id: 1
+    color: cyan
+    sentence: Nothing special, it seems like somebody dropped it
+
+  - id: 0.1
+    sentence: You picked the ring up
+  - id: 1.1
+    isFinish: true
+
+  - id: 0.2
+    sentence: You decide to let the ring be
+  - id: 1.2
+    isFinish: true
+
+  - id: 0.3
+    sentence: The ring seems to be in a good shape
+
+  - id: 0.4
+    skill_check: strength
+    difficulty: 3
+    fail_route: 0.5
+    sentence: The ring is destroyed into pieces...
+  - id: 1.4
+    sentence: Sadly... Nothing else seems to happen
+  - id: 2.4
+    isFinish: true
+
+  - id: 0.5
+    sentence: You couldn't use enough force to break the ring

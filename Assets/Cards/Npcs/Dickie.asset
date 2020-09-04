@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0456c97c402fd874babdf2df62dd4ca9, type: 3}
+  m_Name: Dickie
+  m_EditorClassIdentifier: 
+  name: Dickie The Dick
+  description: You are getting nothing about me
+  sprite: {fileID: -36922474833775500, guid: 262f85346b4a1124d8c011d0ea0662f0, type: 3}
+  level: 1
+  hp: 0
+  maxHp: 20
+  attack: 5
+  defense: 13
+  strength: 0
+  intelligence: 0
+  charm: 0
+  type: 0
+  itemType: 0

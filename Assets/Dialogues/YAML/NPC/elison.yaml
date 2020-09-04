@@ -1,0 +1,76 @@
+---
+name: Elison The Compassionate
+sentences:
+- id: 1
+  sentence: Oh my, Oh dear
+- id: 2
+  sentence: What happened to you?
+
+- id: 0.1
+  sentence: I understand!
+- id: 1.1
+  sentence: So I must!
+- id: 2.1
+  sentence: Fight Back!
+- id: 3.1
+  sentence: For you!
+- id: 4.1
+  sentence: Your on SAKE!
+
+- id: 0.2
+  sentence: Wait, take this
+  prize: armor
+- id: 2.2
+  sentence: And also this, take care of yourself
+  prize: armor quality
+- id: 3.2
+  isFinish: true
+
+- id: 0.3
+  skill_check: intelligence
+  difficulty: 3
+  fail_route: 0.5
+  sentence: You don't even need to ask me
+- id: 1.3
+  sentence: Take this..
+  prize: armor
+- id: 2.3
+  sentence: And this!
+  prize: armor quality
+- id: 3.3
+  sentence: Good luck!
+- id: 4.3
+  isFinish: true
+
+- id: 0.5
+  sentence: Oh dear...
+- id: 1.5
+  sentence: You even messed this up
+- id: 2.5
+  sentence: Poor you
+  prize: accessory
+- id: 3.5
+  isFinish: true
+
+- id: 0.4
+  skill_check: charm
+  difficulty: 3
+  fail_route: 0.5
+  sentence: Oh, what a charmer dear
+- id: 1.4
+  sentence: You don't even need to ask me
+- id: 2.4
+  sentence: Take this..
+  prize: armor
+- id: 3.4
+  sentence: Good luck dear!
+- id: 4.4
+  isFinish: true
+
+- id: 999
+  sentence: Please...
+- id: 1000
+  sentence: Take care...
+  prize: accessory
+- id: 1001
+  isFinish: true
